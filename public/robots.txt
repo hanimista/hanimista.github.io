@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://hanimista.github.io/sitemap.xml
